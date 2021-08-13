@@ -1,0 +1,6 @@
+TOKEN = "1869806010:AAGYQUuUKBm5pBQaadym21F2RkZPyVAKxjQ"
+WEBHOOK_HOST = 'https://telegrambotquotes.herokuapp.com/'
+WEBHOOK_PATH = ''
+WEBHOOK_URL = f"{WEBHOOK_HOST}{WEBHOOK_PATH}"
+WEBAPP_HOST = 'localhost'
+WEBAPP_PORT = 5000
